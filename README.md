@@ -18,7 +18,7 @@ Save the data to the file
 
 
 # CODE
-
+~~~
 from sklearn.datasets import load_boston
 boston_data=load_boston()
 import pandas as pd
@@ -128,7 +128,7 @@ X = boston.drop(columns='MEDV')[['CRIM','RM','PTRATIO','LSTAT']]
 y_pred = cross_val_predict(classifier_pipeline, X, y, cv=cv)
 print("RMSE: " + str(round(sqrt(mean_squared_error(y,y_pred)),3)))
 print("R_squared: " + str(round(r2_score(y,y_pred),3)))
-
+~~~
 
 # OUPUT
 ![1 (1)](https://user-images.githubusercontent.com/94828335/170408963-d3c437e1-3db7-471d-b508-3dcdbb239fbe.png)
