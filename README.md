@@ -135,5 +135,46 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 
 ![2](https://user-images.githubusercontent.com/94828335/170409004-decad4fc-3ce7-42f6-8ad5-8173b76c6963.png)
 
+![3](https://user-images.githubusercontent.com/94828335/170409092-0cb35b34-bbbf-49af-a07d-93c25593a957.png)
+
+![4](https://user-images.githubusercontent.com/94828335/170409102-97daaa2a-4036-4fad-9a1e-9b4e9014de35.png)
+
+![5](https://user-images.githubusercontent.com/94828335/170409127-9cf505e9-e3fe-4915-82fc-dadcf0018cfe.png)
+
+![6](https://user-images.githubusercontent.com/94828335/170409202-c76b124e-0986-4840-a196-1fe6ee30dc0d.png)
+
+![7](https://user-images.githubusercontent.com/94828335/170409222-6734ceb6-5f67-4913-9fb8-003a8e7e7e38.png)
+
+![8](https://user-images.githubusercontent.com/94828335/170409267-af05aab4-b118-4af3-b93d-be43b8cae063.png)
+
+![9](https://user-images.githubusercontent.com/94828335/170409352-7f7fbfc4-76d1-4d40-8313-b1b67aad5d79.png)
+
+![10](https://user-images.githubusercontent.com/94828335/170409379-e23d15f5-0d26-4769-8c2e-934fe75f55b1.png)
+
+![11](https://user-images.githubusercontent.com/94828335/170409408-b243371b-4f58-47e4-bb8f-889acaa546d5.png)
+
+![12](https://user-images.githubusercontent.com/94828335/170409435-79715e11-2633-46aa-b5de-ac747a83bade.png)
+
+![13](https://user-images.githubusercontent.com/94828335/170409457-d4271096-d441-4c7a-899c-b56a15cd3351.png)
+
+![14](https://user-images.githubusercontent.com/94828335/170409488-ffe8aa98-7007-4561-b54a-75eecf3b07be.png)
+
+![15](https://user-images.githubusercontent.com/94828335/170409560-de650002-4370-4657-b322-01fac421b60f.png)
+
+![16](https://user-images.githubusercontent.com/94828335/170409623-be38c720-e1f7-4cb0-a9f8-0a9d6502461d.png)
+
+
+##RESULT
+
+The various feature selection techniques has been performed on a dataset and saved the data to a file.
+
+
+
+
+
+
+
+
+
 
 
